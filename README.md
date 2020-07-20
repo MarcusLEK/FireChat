@@ -1,16 +1,14 @@
 # FireChat
 
-A new Flutter project.
+A flutter and firebase chat app with push notifications.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run and install this app, you first need to do the following:
+- setup enviroment for flutter and android development
+- setup firebase for the app
+- replace the API key in the code with your own firebase app API key
 
-A few resources to get you started if this is your first Flutter project:
+# IMPORTANT
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is completed and will no longer be supported or updated. It will only serve as a template for future Flutter and Firebase apps.
